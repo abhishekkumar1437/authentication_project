@@ -1,0 +1,37 @@
+.background{
+    background-color: rgb(14, 117, 201);
+    
+}
+
+.form{
+    height: 500px;
+    width: 70%;
+    position:relative;
+    border-radius: 20px;
+    background-color: white;
+    margin:auto;
+}
+
+.signin_btn{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width:100%;
+  }
+
+  .div_margin{
+      padding-left:20%;
+      padding-top:15px;
+      
+  }
+.padd{
+    text-align: right;
+}
